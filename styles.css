@@ -1,0 +1,85 @@
+.text {
+    text-align: center;
+}
+
+body{
+    background-color: #E1D7C6;
+}
+
+.container {
+    padding: 5px;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}
+
+.small-img {
+    width: 250px;
+    height: 250px; 
+}
+
+.recipe-box {
+    width: 270px;
+    outline: 3px solid black;
+    padding: 10px;
+}
+
+
+.main {
+    background-color: #F8F4EA;
+    outline: 3px solid black;
+    display: flex;
+    visibility: hidden;
+}
+
+.hidden {
+    display: none;
+}
+
+.big-img {
+    width: 500px;
+    height: 400px;
+}
+
+.left-div {
+    outline: 3px solid black;
+    margin: 10px;
+    padding: 10px;
+    padding-top: 0px;
+    width: 500px;
+}
+
+.ingridients-box {
+    padding: 10px;
+    width: 400px;
+    margin-right: 40px;
+
+}
+
+.right-div{
+    display: flex;
+    flex-direction: row;
+}
+
+.ingredients-box {
+    width: 300px;
+    height: 100%;
+    margin-right: 50px;
+}
+
+.steps-box {
+    width: 610px;
+    height: 100%;
+}
+
+.back {
+    width: 70px;
+}
+
+.title {
+    width: 300px;
+}
+
+.title-box {
+    display: flex;
+    justify-content: center;
+}
