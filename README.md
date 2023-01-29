@@ -5,3 +5,5 @@ terdapat foto makanan, nama makanan, pembuat resep, bahan-bahan pembuatan, dan l
 fitur search untuk mempermudah mencari resep makanan. 
 
 Dibuat oleh Mesach Harmasendo, NIM: 1962213, GDSC ID: 220020019
+
+link: https://jade-starship-e998e0.netlify.app/
